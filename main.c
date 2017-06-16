@@ -46,6 +46,5 @@ int main(int argc, const char * argv[])
         fclose(fp1);
         fclose(fp2);
     }
-    
     return 0;
 }
